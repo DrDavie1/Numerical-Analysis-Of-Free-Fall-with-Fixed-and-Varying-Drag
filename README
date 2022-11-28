@@ -1,0 +1,16 @@
+--------NUMERICAL ANALYSIS OF FREE FALL WITH MIXED AND VARYING DRAG----------
+
+    -----PROJECT OVERVIEW----
+
+    In general this program is best described throughout the report. Which is also availible within this repository.  
+
+    Abstract:
+    ===================================================
+    The aim of this paper is to accurately model the jump that Felix Baumgartner took from 39045m in 2012, along with demonstrating the mass and cross sectional area required to break the sound barrier. Modelling the jump, taking Felix’s mass as 110kg and area as 0.9m2 a mach number of 1.0077, this model correctly predicts that Felix broke the sound barrier.
+    ===================================================
+
+    Disclaimer: This is a University assignment therefore the motives of the project were not my own as such.
+	
+    -----Running Information----
+
+    Simply run main.py. Code will talk you through the steps.  
